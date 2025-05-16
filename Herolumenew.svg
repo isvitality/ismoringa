@@ -1,0 +1,14 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 300 300" fill="none">
+  <!-- Outer border -->
+  <circle cx="150" cy="150" r="140" stroke="#000000" stroke-width="6" fill="none" />
+  <!-- Inner border -->
+  <circle cx="150" cy="150" r="125" stroke="#000000" stroke-width="2" fill="none" />
+  <!-- Monogram -->
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central"
+        font-family="Georgia, serif" font-size="80" fill="#000000" letter-spacing="2">HL</text>
+  <!-- Bottom arc flourish -->
+  <path d="M50 230 C90 180, 210 180, 250 230" stroke="#000000" stroke-width="2" fill="none"/>
+  <!-- Diamond symbol below text -->
+  <path d="M150 165 L140 180 L150 195 L160 180 Z" fill="#000000"/>
+</svg>
