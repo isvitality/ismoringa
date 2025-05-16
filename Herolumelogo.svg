@@ -1,0 +1,14 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300" fill="none">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="#FFD966" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#FFD966" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle cx="150" cy="150" r="140" stroke="#FFD966" stroke-width="4" fill="url(#glow)" />
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central"
+        font-family="Georgia, serif" font-size="80" fill="#FFD966" letter-spacing="2">HL</text>
+  <path d="M50 230 C90 180, 210 180, 250 230" stroke="#FFD966" stroke-width="3" fill="none"/>
+  <path d="M150 165 L140 180 L160 180 Z" fill="#FFD966"/>
+</svg>
