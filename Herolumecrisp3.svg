@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 300 300" fill="none">
+  <!-- Strong double borders -->
+  <circle cx="150" cy="150" r="135" stroke="#000000" stroke-width="6" fill="none"></circle>
+  <circle cx="150" cy="150" r="122" stroke="#000000" stroke-width="6" fill="none"></circle>
+
+  <!-- Sacred geometry lines -->
+  <line x1="150" y1="40" x2="150" y2="260" stroke="#000000" stroke-width="6"></line>
+  <line x1="40" y1="150" x2="260" y2="150" stroke="#000000" stroke-width="6"></line>
+  <line x1="80" y1="80" x2="220" y2="220" stroke="#000000" stroke-width="6"></line>
+  <line x1="220" y1="80" x2="80" y2="220" stroke="#000000" stroke-width="6"></line>
+
+  <!-- Crest base arc and diamond -->
+  <path d="M100 230 C130 200, 170 200, 200 230" stroke="#000000" stroke-width="6" fill="none"></path>
+  <path d="M150 190 L140 205 L150 220 L160 205 Z" fill="#000000"></path>
+
+  <!-- Center monogram -->
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central" font-family="Georgia, serif" font-size="82" fill="#000000" letter-spacing="0">HL</text>
+</svg>
